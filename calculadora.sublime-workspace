@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contar",
+				"contarVocales"
+			],
+			[
+				"op",
+				"operador"
+			],
+			[
+				"var",
+				"varb"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fot",
+				"footer	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"codici",
+				"Condicion"
+			],
+			[
+				"subca",
+				"subcateg"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"elimina",
+				"eliminar_cat"
+			],
+			[
+				"id",
+				"idcat"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"catego",
+				"categoria"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"inpu",
+				"INPUT	Tag"
+			],
+			[
+				"categ",
+				"categoria"
+			],
+			[
+				"caegoria",
+				"Categoria"
+			],
+			[
+				"i",
+				"italic"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/mejorandola/calculadora.html",
+		"/C/wamp/www/mejorandola/contadorvocales.html",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/index.php",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/website/index.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-single.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-link.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/header.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-status.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/header2.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-quote.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/home_animation_edge.js",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/css/all-site.css",
+		"/C/wamp/www/imc/wp-config.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/js/slider.js",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/contactpage.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/contactpage2.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/footer2.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/image.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/search.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/searchform.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/sidebar-footer.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/sidebar-page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/sidebar.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/single.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/tag.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-page.php",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/website/aeropuerto_exterior.html",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/category.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/imcpage.php",
+		"/C/wamp/www/imc/license.txt",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/category2.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/archive.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/author.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/404.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/readme.txt",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/website/vision.html",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/website/contactenos.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/showcase.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/index2.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-gallery.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/css/demo.css",
+		"/C/wamp/www/imc/wp-admin/themes.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/functions.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/style.css",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/editor-style-rtl.css",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/editor-style.css",
+		"/C/wamp/www/k9gs.com/wp-content/themes/k9gs/galeria-page.php",
+		"/C/wamp/www/k9gs.com/wp-content/themes/k9gs/gallery-page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/home_animation_edgePreload.js",
+		"/C/wamp/www/k9gs.com/wp-content/themes/k9gs/contact-page.php",
+		"/C/wamp/www/k9gs.com/wp-content/themes/k9gs/page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/pieza4.png",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/showcase2.php",
+		"/C/Users/PC/Documents/clientes_hachewd/IMC/website/cc_exterior.html",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/footer.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/product_page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/page2.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/pieza7.png",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/products-page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/productos_page.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/content-intro.php",
+		"/C/wamp/www/k9gs.com/wp-content/themes/k9gs/header.php",
+		"/C/wamp/www/imc/wp-content/themes/imcmedios/js/showcase.js",
+		"/C/wamp/www/Active/login.php",
+		"/C/wamp/www/Active/css/style.css",
+		"/C/wamp/www/Active/config_inc_local.php",
+		"/C/wamp/www/Active/config_inc.php",
+		"/C/wamp/www/Active/add_art.php",
+		"/C/wamp/www/Active/add_cat.php",
+		"/C/wamp/www/Active/add_subcat.php",
+		"/C/wamp/www/Active/menu.php",
+		"/C/wamp/www/Active/logout.php",
+		"/C/wamp/www/Active/articulos.php",
+		"/C/wamp/www/Active/categoria.php",
+		"/C/wamp/www/Active/index.php",
+		"/C/wamp/www/Active/subcategorias.php",
+		"/C/wamp/www/Active/seccion_start.php",
+		"/C/wamp/www/Active/categoria2.php",
+		"/C/wamp/www/Active/actualizar_cat.php",
+		"/C/wamp/www/Active/actualizar2.php",
+		"/C/wamp/www/Active/actualizar_subcat.php",
+		"/C/wamp/www/Active/config_inc_local_.php",
+		"/C/wamp/www/Active/edit_cat.php",
+		"/C/wamp/www/Active/edit_subcat.php",
+		"/C/wamp/www/Active/eliminar_cat.php",
+		"/C/wamp/www/Active/eliminar_subcat.php",
+		"/C/wamp/www/Active/footer.php",
+		"/C/wamp/www/Active/guardar.php",
+		"/C/wamp/www/Active/guardar_art.php",
+		"/C/wamp/www/Active/guardar_sub.php",
+		"/C/Users/PC/Documents/clientes_hachewd/promosucre/web/guardar.php",
+		"/C/Users/PC/Documents/clientes_hachewd/promosucre/web/db_conn.php",
+		"/C/wamp/www/Active/subacategorias.php",
+		"/C/wamp/www/Active/actualizar_cat",
+		"/C/wamp/www/Active/actualizar.php",
+		"/C/Users/PC/Documents/clientes_hachewd/promosucre/web/activar_codigo.php",
+		"/C/wamp/www/Active/edt_cat.php",
+		"/C/Users/PC/Documents/clientes_hachewd/promosucre/web/reporte.php",
+		"/C/wamp/www/config_inc_lo.php",
+		"/C/Users/PC/Documents/clientes_hachewd/promosucre/web/login.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menuItem",
+			"thumb",
+			"150",
+			"thumb",
+			"150",
+			"the_menu",
+			"add_art",
+			"idcateg",
+			"categ",
+			"$total",
+			"$result",
+			"formDatos",
+			"getElementById",
+			"validacion",
+			"resultado",
+			"activar_codigo",
+			"$con"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/PC/Documents/clientes_hachewd/promoiberico/promoiberico.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true
+}
